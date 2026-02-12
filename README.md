@@ -5,7 +5,7 @@
 
 ## About Me
 
-- Currently looking for an internchip from nov 2026
+- Actively seeking a web development internship starting November 2026
 
 - Reach me at **eddie.johanssonn@hotmail.com**
 - More about my experience on https://www.linkedin.com/in/eddie-johansson-90a972384/
