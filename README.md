@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Eddie!</h1>
+<h3 align="center">Web Development Student @ YRGO, Gothenburg</h3>
 
-<!--
-**EddieJohanssonn3000/EddieJohanssonn3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently looking for an internchip from nov 2026
+
+- Reach me at **eddie.johanssonn@hotmail.com**
+- More about my experience on https://www.linkedin.com/in/eddie-johansson-90a972384/
+- Fun fact: i'm a tuna fish salad master maker!
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eddie-johansson-90a972384/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,wordpress" />
+</p>
+
+C#, Sanity
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+SQLite
+
+### Tools & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+RESTful APIs • Laravel Sanctum • JWT
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DITT_ANVÄNDARNAMN&show_icons=true&theme=default" />
+</p>
