@@ -11,9 +11,11 @@
 - More about my experience on https://www.linkedin.com/in/eddie-johansson-90a972384/
 - Fun fact: i'm a tuna fish salad master maker!
 
+- Try out our latest project: https://www.npmjs.com/package/im-a-teapot
+
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eddie-johansson-90a972384/">
@@ -51,10 +53,3 @@ SQLite
 
 RESTful APIs • Laravel Sanctum • JWT
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DITT_ANVÄNDARNAMN&show_icons=true&theme=default" />
-</p>
