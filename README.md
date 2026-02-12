@@ -9,7 +9,7 @@
 
 - Reach me at **eddie.johanssonn@hotmail.com**
 - More about my experience on https://www.linkedin.com/in/eddie-johansson-90a972384/
-- Try out our latest project: https://www.npmjs.com/package/im-a-teapot
+- Try out our latest project [i'm-a-teapot (npm)]: https://www.npmjs.com/package/im-a-teapot
 - Fun fact: i'm a tuna fish salad master maker!
 
 ---
@@ -36,19 +36,18 @@
   <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,wordpress" />
 </p>
 
-C#, Sanity
 
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
 </p>
 
-SQLite
+
 
 ### Tools & Services
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-RESTful APIs • Laravel Sanctum • JWT
 
