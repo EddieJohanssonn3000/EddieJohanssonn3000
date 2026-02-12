@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋 I'm Eddie!</h1>
+<h1 align="center">Hi, i'm Eddie!</h1>
 <h3 align="center">Web Development Student @ YRGO, Gothenburg</h3>
+
 ---
-## ✨ About Me
+
+## About Me
 
 - Currently looking for an internchip from nov 2026
 
