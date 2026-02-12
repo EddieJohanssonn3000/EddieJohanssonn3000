@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋 I'm Eddie!</h1>
 <h3 align="center">Web Development Student @ YRGO, Gothenburg</h3>
-
 ---
-
 ## ✨ About Me
 
 - Currently looking for an internchip from nov 2026
 
 - Reach me at **eddie.johanssonn@hotmail.com**
 - More about my experience on https://www.linkedin.com/in/eddie-johansson-90a972384/
-- Fun fact: i'm a tuna fish salad master maker!
-
 - Try out our latest project: https://www.npmjs.com/package/im-a-teapot
+- Fun fact: i'm a tuna fish salad master maker!
 
 ---
 
