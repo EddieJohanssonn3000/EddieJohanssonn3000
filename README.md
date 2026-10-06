@@ -5,11 +5,10 @@
 
 ## About Me
 
-- Actively seeking a web development internship starting November 2026
+- Starting my internship at Grebban, Gothenburg in November 2026
 
 - Reach me at **eddie.johanssonn@hotmail.com**
 - More about my experience on https://www.linkedin.com/in/eddie-johansson-90a972384/
-- Try out our latest project [i'm-a-teapot (npm)]: https://www.npmjs.com/package/im-a-teapot
 - Fun fact: i'm a tuna fish salad master maker!
 
 ---
